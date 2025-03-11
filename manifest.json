@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "locale": "English_Ireland.1252",
+  "metadata": {
+    "appmode": "python-bokeh",
+    "entrypoint": "app"
+  },
+  "python": {
+    "version": "3.11.6",
+    "package_manager": {
+      "name": "pip",
+      "version": "25.0.1",
+      "package_file": "requirements.txt"
+    }
+  },
+  "files": {
+    "requirements.txt": {
+      "checksum": "92de12961f3823582ca28f1d0f9cd973"
+    },
+    ".gitignore": {
+      "checksum": "729c7d53cbe288048f387b3b6055c881"
+    },
+    "README.md": {
+      "checksum": "45c02fd6996a3929ac6cb184307e8124"
+    },
+    "app.py": {
+      "checksum": "b965e780a74b524f0ab5263a214614d7"
+    },
+    "data.csv": {
+      "checksum": "8da5e3f4e5d46c024310cd04354f81bd"
+    }
+  }
+}
